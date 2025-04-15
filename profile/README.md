@@ -12,7 +12,7 @@
 
 ### <a href="https://github.com/20250304-KB6-12/02_Vue_Lecture">02_Vue.js</a>
 
-### <a href="https://github.com/20250304-KB6-12/03_Java">03_Java.js</a>
+### <a href="https://github.com/20250304-KB6-12/03_Java">03_Java</a>
 
 
 ---
