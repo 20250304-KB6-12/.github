@@ -14,6 +14,8 @@
 
 ### <a href="https://github.com/20250304-KB6-12/03_Java">03_Java</a>
 
+### <a href="https://github.com/20250304-KB6-12/04_DB">04_DB</a>
+
 
 ---
 (뱃지 참고 : https://github.com/Ileriayo/markdown-badges)
