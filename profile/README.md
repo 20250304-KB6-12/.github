@@ -7,6 +7,9 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 ### 🐱‍🏍저장소 링크
@@ -16,6 +19,8 @@
 ### <a href="https://github.com/20250304-KB6-12/03_Java">03_Java</a>
 
 ### <a href="https://github.com/20250304-KB6-12/04_DB">04_DB</a>
+
+### <a href="https://github.com/20250304-KB6-12/05_JSP-Servlet">05_JSP-Servlet</a>
 
 
 ---
